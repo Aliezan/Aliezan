@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-#### I'm Muhammad Alieza Nuriman, a recent graduate student passionate in Web Development mainly in JavaScript and Go.
+#### I'm Muhammad Alieza Nuriman, a recent graduate student passionate in Web Development mainly in JavaScript and Go. 🪄
 
 ##### **Actively seeking for opportunities to collaborate and work on a project**
 ---
@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,go,nextjs,react,nodejs,express,nestjs,prisma,apollo,graphql,postgresql,supabase,docker,azure,)](https://skillicons.dev)
 
-**To get to know me better:** 👨
+**To get to know me better 👨:** 
 
 [![linkedin](https://img.shields.io/badge/linkedin-3366cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alieza-nuriman/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadalieza4@gmail.com)
