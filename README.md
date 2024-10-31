@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-#### I'm Muhammad Alieza Nuriman, a recent graduate student passionate in Fullstack Web Development mainly in JavaScript and Go. 🪄
+#### I'm Muhammad Alieza Nuriman, a recent graduate student passionate in Fullstack Web Development mainly in JavaScript, PHP and Go. 🪄
 
 ##### **Actively seeking for opportunities to collaborate and work on a project**
 ---
