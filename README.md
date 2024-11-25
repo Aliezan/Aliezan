@@ -1,15 +1,20 @@
 # Welcome to My GitHub Profile! 👋
 
-#### I'm Muhammad Alieza Nuriman, a recent graduate student passionate in Fullstack Web Development mainly in JavaScript, PHP and Go. 🪄
+##### I'm Muhammad Alieza Nuriman, a recent graduate with a passion for full-stack web development, specializing in JavaScript/TypeScript, PHP, and Go. 🪄
 
-##### **Actively seeking for opportunities to collaborate and work on a project**
+###### **Passionate about building scalable web applications and exploring innovative tech solutions**
 ---
 
 ### Tech Stack 🛠️
-
 [![My Skills](https://skillicons.dev/icons?i=ts,go,nextjs,react,nodejs,express,nestjs,laravel,jest,prisma,apollo,graphql,postgresql,supabase,docker,azure,linux,vim,githubactions&perline=8)](https://skillicons.dev)
 
-**To get to know me better 👨:** 
+### About Me 💡
+- 🎓 Recent Graduate in Computer Science
+- 💻 Specialized in Full-Stack Web Development
+- 🚀 Enthusiastic about building efficient, user-centric applications
+- 🌱 Always learning and expanding my technological toolkit
+
+**Let's Connect 👨:** 
 
 [![linkedin](https://img.shields.io/badge/linkedin-3366cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alieza-nuriman/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadalieza4@gmail.com)
