@@ -7,7 +7,7 @@
 
 ### Tech Stack 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=ts,go,nextjs,react,nodejs,express,nestjs,laravel,prisma,apollo,graphql,postgresql,supabase,docker,azure,linux,vim,githubactions&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,nextjs,react,nodejs,express,nestjs,laravel,jest,prisma,apollo,graphql,postgresql,supabase,docker,azure,linux,vim,githubactions&perline=8)](https://skillicons.dev)
 
 **To get to know me better 👨:** 
 
