@@ -18,4 +18,4 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-3366cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alieza-nuriman/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadalieza4@gmail.com)
-[![My Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=https://qkwuqosatleeksadetsa.supabase.co/storage/v1/object/public/logo-bucket/aliezn-icon-dark.webp?t=2024-10-17T12%3A11%3A29.644Z&logoColor=white)](https://aliezan.me)
+[![aliezan.me](https://img.shields.io/badge/aliezan.me-000?style=for-the-badge&logo=https://qkwuqosatleeksadetsa.supabase.co/storage/v1/object/public/logo-bucket/aliezn-icon-dark.webp?t=2024-10-17T12%3A11%3A29.644Z&logoColor=white)](https://aliezan.me)
