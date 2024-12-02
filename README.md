@@ -6,7 +6,7 @@
 ---
 
 ### Tech Stack 🛠️
-[![My Skills](https://skillicons.dev/icons?i=ts,go,nextjs,react,nodejs,express,nestjs,laravel,jest,prisma,apollo,graphql,postgresql,mysql,supabase,docker,azure,linux,vim,githubactions&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,python,nextjs,react,nodejs,express,nestjs,laravel,jest,prisma,apollo,graphql,postgresql,mysql,supabase,docker,azure,linux,vim,githubactions&perline=8)](https://skillicons.dev)
 
 ### About Me 💡
 - 🎓 Recent Graduate in Computer Science
